@@ -41,6 +41,8 @@ JWT Authentication
 
 
 📁 Project Structure
+
+
 EmpowerAid/
 │── frontend/          # UI (React / Next.js)
 │── backend/           # Server (Node.js, Express)
